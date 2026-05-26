@@ -34,10 +34,10 @@
     { title: "어쨌든, 에이전틱 코딩", publisher: "인사이트", url: "https://aladin.kr/p/8S87W", group: "AI" },
     { title: "바로바로 바이브 코딩 with 커서", publisher: "골든래빗", url: "https://aladin.kr/p/rS9II", group: "AI" },
     { title: "요즘 바이브 코딩 클로드 코드 완벽 가이드", publisher: "골든래빗", url: "https://aladin.kr/p/ACCgU", group: "AI" },
-    { title: "AI 시대의 데이터 패러독스", publisher: "에이콘", url: "https://aladin.kr/p/eCsOh", group: "AI" },
     { title: "바로바로 클로드 with 코워크, 스킬, 클로드 코드, 디자인", publisher: "골든래빗", url: "https://aladin.kr/p/aSLfg", group: "AI" },
     { title: "클로드 코드로 시작하는 실전 에이전틱 코딩", publisher: "인사이트", url: "https://aladin.kr/p/rSLvw", group: "AI" },
     { title: "AI 시대의 프로그래머", publisher: "한빛미디어", url: "https://aladin.kr/p/Uqp0P", group: "AI" },
+    { title: "AI 시대의 데이터 패러독스", publisher: "에이콘", url: "https://aladin.kr/p/eCsOh", group: "AI" },
   ];
 
   const IMAGE_FILES = [

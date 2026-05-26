@@ -42,7 +42,7 @@ function Header({ dark, onToggleDark }) {
       </div>
       <div className="site-header-intro">
         <p>
-          지난 1년간 수고 많았어요.<br></br>좋은 책을 만나 앞으로도 더 성장하는 개발자가 되길 바랍니다.
+          지난 1년간 수고 많았어요.<br></br>좋은 책을 만나 앞으로 더 성장하는 개발자가 되길 바랍니다.
         </p>
         <div className="site-header-nav">
           {window.BOOK_GROUPS.map((g) => (
